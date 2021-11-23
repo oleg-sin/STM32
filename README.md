@@ -1,2 +1,2 @@
 # FREERTOS-STM32
-Learning FreeRTOS on STM32
+Learning STM32
